@@ -7,18 +7,19 @@ A collection of open source projects that i have tested, use currently or i beli
 - [Awesome OpenSource](#awesome-opensource)
 - [Table of Contents](#table-of-contents)
   - [Business Intelligence tools](#business-intelligence-tools)
-  - [Low Code and form tools](#low-code-and-form-tools)
+  - [Low Code \& form tools](#low-code--form-tools)
   - [Notification Platform](#notification-platform)
   - [Web Hosting Platform](#web-hosting-platform)
   - [Cross platform UI framework](#cross-platform-ui-framework)
   - [Storage server and tools](#storage-server-and-tools)
   - [UX and UI Design tools](#ux-and-ui-design-tools)
   - [ECommerce platform](#ecommerce-platform)
-  - [Task and project management platform](#task-and-project-management-platform)
+  - [Task \& project management platform](#task--project-management-platform)
   - [Distributed relational DB system](#distributed-relational-db-system)
-  - [Cloud, infrastructure and virtualization as service system](#cloud-infrastructure-and-virtualization-as-service-system)
-  - [CRM and ERP system](#crm-and-erp-system)
+  - [Cloud, infrastructure \& virtualization as service system](#cloud-infrastructure--virtualization-as-service-system)
+  - [CRM \& ERP system](#crm--erp-system)
   - [Asset management system](#asset-management-system)
+  - [Geographic search \& routing System](#geographic-search--routing-system)
 
 
 ## Business Intelligence tools
@@ -29,7 +30,7 @@ A collection of open source projects that i have tested, use currently or i beli
 * [MetaBase](https://github.com/metabase/metabase) - About
 The simplest, fastest way to get business intelligence and analytics to everyone in your company
 
-## Low Code and form tools
+## Low Code & form tools
 
 * [Tooljet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications.
 * [AppSmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards.
@@ -55,6 +56,8 @@ The server administration software for your needs
 * [Tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 * [Uno Platform](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML.
 * [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+* [dotnet MAUI](https://github.com/dotnet/maui) - About
+.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 * [React Native](https://github.com/facebook/react-native) -  framework for building native applications using React
 * [Ionic Framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
@@ -69,13 +72,14 @@ The server administration software for your needs
 ## UX and UI Design tools
 
 * [Penpot](https://github.com/penpot/penpot) - The Open-Source design & prototyping platform
+* [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics
 
 ## ECommerce platform
 
 * [Medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative
 * [OroCommerce](https://github.com/oroinc/orocommerce) - Main OroCommerce package with core functionality.
 
-## Task and project management platform
+## Task & project management platform
 
 * [FocalBoard](https://github.com/mattermost/focalboard) - elf-hosted alternative to Trello, Notion, and Asana.
 * [Wuffle](https://github.com/nikku/wuffle) - A multi-repository / multi-organization task board for GitHub issues.
@@ -85,17 +89,32 @@ The server administration software for your needs
 ## Distributed relational DB system
 
 * [Vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-* [YugaByte](https://github.com/yugabyte/yugabyte-db) - The cloud native distributed SQL database for mission-critical applications.
+* [YugaByteDB](https://github.com/yugabyte/yugabyte-db) - The cloud native distributed SQL database for mission-critical applications.
 
-## Cloud, infrastructure and virtualization as service system
+## Cloud, infrastructure & virtualization as service system
 
 * [OpenNebula](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud
+* [Proxmox](https://proxmox.com/en/) - open-source virtualization platform
+* [OpenShift](https://developers.redhat.com/products/openshift/overview) - A cloud-native application platform with everything you need to manage your development life cycle securely
 
-## CRM and ERP system
+## CRM & ERP system
 
 * [Axelor](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
+* [Flectra](https://gitlab.com/flectra-hq/flectra) - https://gitlab.com/flectra-hq/flectra
+* [Oddo](https://github.com/odoo/odoo) - Open Source Apps To Grow Your Business.
 
 ## Asset management system
 
 * [GLPI](https://github.com/glpi-project/glpi) - A Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 * [OCSInventory](https://github.com/OCSInventory-NG/OCSInventory-Server) - Communication server of OCS Inventory
+* [SnipeIT](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+
+
+## Geographic search & routing System
+
+* [Graphhopper](https://github.com/graphhopper/graphhopper) - Routing engine for OpenStreetMap. Use it as Java library or standalone web server.
+* [Pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using Elasticsearch.
+* [OSRM](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* [Valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
+* [Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
+* [Photon](https://github.com/komoot/photon) - An open source geocoder for openstreetmap data
